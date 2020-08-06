@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="0.75in"
+   height="0.5in"
+   viewBox="0 0 19.050001 12.7"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="four-low-dash-indicator-symbol.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:export-filename="./four-low-dash-indicator-symbol.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     fit-margin-bottom="0"
+     fit-margin-right="0"
+     fit-margin-left="0"
+     fit-margin-top="0"
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="16"
+     inkscape:cx="92.343747"
+     inkscape:cy="-2.958712"
+     inkscape:document-units="in"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="in"
+     inkscape:pagecheckerboard="true"
+     showguides="false"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="3840"
+     inkscape:window-height="2066"
+     inkscape:window-x="-11"
+     inkscape:window-y="49"
+     inkscape:window-maximized="1"
+     inkscape:snap-to-guides="true">
+    <sodipodi:guide
+       position="1.27,12.7"
+       orientation="-1,0"
+       id="guide10"
+       inkscape:label=""
+       inkscape:locked="true"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="11.43,0"
+       orientation="-1,0"
+       id="guide12"
+       inkscape:label=""
+       inkscape:locked="true"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="5.7149999,15.875"
+       orientation="-1,0"
+       id="guide14"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="6.9849999,3.1750003"
+       orientation="-1,0"
+       id="guide16"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-6.0377675e-8,-3.1750003)"
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="driveshaft"
+     style="display:inline" />
+  <g
+     transform="translate(-6.0377675e-8,-3.1750003)"
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="rear axle"
+     style="display:inline" />
+  <g
+     transform="translate(-6.0377675e-8,-3.1750003)"
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="front axle"
+     style="display:inline;mix-blend-mode:normal" />
+  <g
+     transform="translate(-6.0377675e-8,-3.1750003)"
+     inkscape:label="wheels"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline">
+    <text
+       transform="scale(1.0129693,0.98719674)"
+       id="text848"
+       y="13.239357"
+       x="-0.34726208"
+       style="font-size:9.87778px;line-height:1.25;font-family:sans-serif;letter-spacing:-1.05833px;stroke-width:0.265423;fill:#ff9900;fill-opacity:1;"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.87778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.265423;fill:#ff9900;fill-opacity:1;"
+         y="13.239357"
+         x="-0.34726208"
+         id="tspan846"
+         sodipodi:role="line">4LO</tspan></text>
+  </g>
+</svg>

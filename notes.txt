@@ -1,0 +1,38 @@
+4 wheel drive symbol
+1/2" wide
+1/2" tall
+
+4 lo symbol
+1/2" wide
+1/2" tall
+
+
+- 0.5
+. 0.25
+engage sequence
+4w4l - 4w . 4l . 4w - 4w4l
+0.5 + 0.75 + 0.5 + 0.5 + 0.25 + 0.75 + 0.25 + 0.5 + 0.5 + 0.5 + 0.75
+
+disengage sequence
+4w . 4w - 4l . 4l . 4w4l
+0.5,0.75,1.25,1.75,2.5,2.75,3.25
+
+2lo sequence
+4w . 4l . 4w . 4l . 4w . 4l . 4w . 4l
+0.5,0.75,1.5,1.75,2.25,2.5,3.25,3.75,4.25,
+
+Added switch engaging 2lo mode and shifting into 2lo
+- Starting from the 2hi position press the switch in which will supply +12v to the 2lo module
+- Dash light sequence for “engaging 2lo mode” will be displayed confirming power has been blocked from
+being transferred to the front wheels
+- Put the 4wd switch into the 4hi positon, once in 4hi adjust the switch once again into the 4lo position (while
+adhering to the usual 4lo criteria such as being in neutral (clutch all the way in for manuals), going under
+2mph etc)
+- If you have properly engaged 2lo then you will see the dash light sequence for “2lo”
+
+Added switch disengaging 2lo mode
+- Simply exit 2lo the same way you normally would exit 4lo adhering to the usual 4lo criteria such as being in
+neutral (clutch all the way in for manuals), going under 2mph etc
+- Once out of 2lo returning the switch to the 2hi position and ensuring the switch is no longer latched (not
+providing 12v to the 2lo module) will disengage 2lo mode and you will get the dash light sequence for
+“disengaging 2lo mode”

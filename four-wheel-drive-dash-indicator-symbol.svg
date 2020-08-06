@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="0.5in"
+   height="0.5in"
+   viewBox="0 0 12.7 12.7"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="four-wheel-drive-dash-indicator-symbol.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:export-filename="./four-wheel-drive-dash-indicator-symbol.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="16"
+     inkscape:cx="14.216727"
+     inkscape:cy="15.113972"
+     inkscape:document-units="in"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="in"
+     inkscape:pagecheckerboard="true"
+     showguides="false"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1642"
+     inkscape:window-height="1228"
+     inkscape:window-x="266"
+     inkscape:window-y="326"
+     inkscape:window-maximized="0"
+     inkscape:snap-to-guides="true">
+    <sodipodi:guide
+       position="1.27,12.7"
+       orientation="-1,0"
+       id="guide10"
+       inkscape:label=""
+       inkscape:locked="true"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="11.43,0"
+       orientation="-1,0"
+       id="guide12"
+       inkscape:label=""
+       inkscape:locked="true"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="5.715,12.7"
+       orientation="-1,0"
+       id="guide14"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="6.985,0"
+       orientation="-1,0"
+       id="guide16"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="driveshaft"
+     style="display:inline" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="rear axle"
+     style="display:inline" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="front axle"
+     style="display:inline;mix-blend-mode:normal" />
+  <g
+     inkscape:label="wheels"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline">
+    <g
+       id="g860">
+      <rect
+         y="2.5040922"
+         x="5.7150002"
+         height="7.6199999"
+         width="1.2699996"
+         id="rect918"
+         style="display:inline;mix-blend-mode:normal;fill:#33cc00;fill-opacity:1;stroke-width:0.264583" />
+      <rect
+         y="10.16"
+         x="2.54"
+         height="1.27"
+         width="7.6199999"
+         id="rect882"
+         style="display:inline;fill:#33cc00;fill-opacity:1;stroke-width:0.264583" />
+      <circle
+         r="1.5875"
+         style="display:inline;mix-blend-mode:normal;fill:#33cc00;fill-opacity:1;stroke-width:0.330729"
+         id="path900-9"
+         cx="6.3499999"
+         cy="10.795" />
+      <rect
+         style="display:inline;mix-blend-mode:normal;fill:#33cc00;fill-opacity:1;stroke-width:0.264583"
+         id="rect882-1"
+         width="7.6199999"
+         height="1.2700001"
+         x="2.5447247"
+         y="1.143" />
+      <circle
+         r="1.5875"
+         cy="1.905"
+         cx="6.3499999"
+         id="path900"
+         style="display:inline;mix-blend-mode:normal;fill:#33cc00;fill-opacity:1;stroke-width:0.330729" />
+      <rect
+         ry="0.25400001"
+         rx="0.25400001"
+         y="8.8900003"
+         x="1.27"
+         height="3.8099999"
+         width="1.905"
+         id="rect18"
+         style="mix-blend-mode:normal;fill:#33cc00;fill-opacity:1;fill-rule:evenodd;stroke-width:0.324047" />
+      <rect
+         ry="0.25400001"
+         rx="0.25400001"
+         style="mix-blend-mode:normal;fill:#33cc00;fill-opacity:1;fill-rule:evenodd;stroke-width:0.324047"
+         id="rect18-5"
+         width="1.905"
+         height="3.8099999"
+         x="9.5249996"
+         y="8.8900003" />
+      <rect
+         ry="0.25400001"
+         rx="0.25400001"
+         transform="rotate(18)"
+         style="display:inline;mix-blend-mode:normal;fill:#33cc00;fill-opacity:1;fill-rule:evenodd;stroke-width:0.324046"
+         id="rect18-8"
+         width="1.905"
+         height="3.8099999"
+         x="2.0860043"
+         y="-0.67778391" />
+      <rect
+         ry="0.25400001"
+         rx="0.25400001"
+         transform="rotate(18)"
+         y="-3.150229"
+         x="9.6954079"
+         height="3.8099999"
+         width="1.905"
+         id="rect18-8-5"
+         style="display:inline;mix-blend-mode:normal;fill:#33cc00;fill-opacity:1;fill-rule:evenodd;stroke-width:0.324046" />
+    </g>
+  </g>
+</svg>
